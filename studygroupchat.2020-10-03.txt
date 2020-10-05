@@ -1,0 +1,37 @@
+From Ved Prakash to Everyone:  12:47 PM
+We are reading chapter 7 right?
+From Shougo Makishima to Everyone:  12:47 PM
+Yep
+From Pardeep Singh to Everyone:  12:47 PM
+Yes
+From init27 (Sanyam Bhutani) to Everyone:  12:47 PM
+Yes, right
+From Ved Prakash to Everyone:  12:47 PM
+thanks
+From Sirish Kumar Bethala to Everyone:  12:52 PM
+Sorry I joined few minutes.. are we reading chapter 7?
+From init27 (Sanyam Bhutani) to Everyone:  12:58 PM
+Yes, correct
+From Mark Lancaster to Everyone:  02:23 PM
+Also, don’t forget to use the ?? Feature of Jupiter notebooks
+From init27 (Sanyam Bhutani) to Everyone:  02:24 PM
++10000
+From quincy to Everyone:  02:24 PM
+here's a learning strategy post on the forums: https://forums.fast.ai/t/learning-strategy-for-top-down-approach/66173
+From Thomas Telandro to Everyone:  02:27 PM
+ Usually I try to apply the content of the notebook to some other dataset. I usually start by facing issues with the dataset folders, file names etc... then needs to resize files etc.. transforms that are not relevant for the dataset I picked up etc...
+The toughest things is when you try to apply something to Japanese ...
+From Ritobrata Ghosh to Everyone:  02:28 PM
+Please provide the links to the podcasts you mentioned in the Slack channel.
+From Max Power to Everyone:  02:29 PM
+Ah okay. Thanks :)
+From Mark Lancaster to Everyone:  02:32 PM
+MixUp blew my mind a little to be honest.
+From Fraser S to Everyone:  02:33 PM
+me too :)
+From Mark Lancaster to Everyone:  02:34 PM
+I’m training with MixUp at the moment for 30 epochs. Going to try to do the same with label smoothing as well and see what happens
+From Vrinda Prabhu to Everyone:  02:36 PM
+I have used MixUp in detection
+Reduces False positives by quite a bit
+Yolo-v4 has mixup as one of the augmentation choices
