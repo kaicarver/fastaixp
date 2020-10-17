@@ -1,0 +1,65 @@
+From Max Power to Everyone:  12:42 PM
+Hey :) I think we are at chapter 8. Last week there was no meeting, since we had a break.
+From ANISH JAIN to Everyone:  12:43 PM
+thanks 
+From Mark Lancaster to Everyone:  12:47 PM
+I went ahead and trained the 25M movielens dataset today. That took some time.
+From Me to Everyone:  12:47 PM
+what's the link for Chai Tinme?
+From Mark Lancaster to Everyone:  12:47 PM
+https://www.youtube.com/channel/UCRjtBP-o5FbgRzX2BHQEFtQ
+From Me to Everyone:  12:47 PM
+ah https://chaitimedatascience.com/
+From init27 (Sanyam Bhutani) to Everyone:  12:47 PM
+http://youtube.com/c/ChaiTimeDataScience/
+From Me to Everyone:  12:47 PM
+tx
+From init27 (Sanyam Bhutani) to Everyone:  12:48 PM
+https://rapids.ai
+From Ritobrata Ghosh to Everyone:  01:04 PM
+Are we reading Chpater 8?
+From ANISH JAIN to Everyone:  01:04 PM
+yes 
+From Ritobrata Ghosh to Everyone:  01:04 PM
+Thanks
+From Steph Yen to Everyone:  01:34 PM
+sorry isn’t there any sound..??
+From Mark Lancaster to Everyone:  02:29 PM
+What if they add things like Directors etc as Categorical variables to the model. It’s just a much higher cardinality model?
+From Noel Mathew to Everyone:  02:33 PM
+Actually it is this reading session that cleared what latent factors are for me.
+From Ved to Everyone:  02:35 PM
+Pandas is beautifully designed
+Facebook is creepy
+From Mark Lancaster to Everyone:  02:36 PM
+I use an extension called Facebook Container for Firefox
+From Ritobrata Ghosh to Everyone:  02:36 PM
+I use that!
+From Sirish Kumar Bethala to Everyone:  02:38 PM
+I have setup this https://pi-hole.net/ on raspberry pi and use it as dns
+From Mark Lancaster to Everyone:  02:40 PM
+Well without Facebook we wouldn’t have PyTorch.. so .. you know.
+From Sameer to Everyone:  02:40 PM
+:)
+From Ritobrata Ghosh to Everyone:  02:40 PM
+I love torch, and React!
+From Ved to Everyone:  02:41 PM
+This is a different debate. Please avoid.
+From Mark Lancaster to Everyone:  02:41 PM
+The next chapter is a doozy. I’d recommend start reading early.. It’s quite extensive.
+From init27 (Sanyam Bhutani) to Everyone:  02:42 PM
++100
+From Ved to Everyone:  02:42 PM
+Thanks for heads up!
+From Ritobrata Ghosh to Everyone:  02:42 PM
+c-9 is big, too!
+From init27 (Sanyam Bhutani) to Everyone:  02:42 PM
+https://medium.com/@init_27/how-not-to-do-fast-ai-or-any-ml-mooc-3d34a7e0ab8c
+From Ved to Everyone:  02:44 PM
+Yes. There are more courses than data jobs right now :D
+From Mark Lancaster to Everyone:  02:46 PM
+doc() and ?? are your best friends in Jupyter
+From init27 (Sanyam Bhutani) to Everyone:  02:46 PM
++100
+From Francis C to Everyone:  02:47 PM
+excellent advice all around!
